@@ -1,0 +1,51 @@
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.deps.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.runtimeconfig.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.runtimeconfig.dev.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\BLL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\HELPER.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\BLL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\MODEL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\DAL.dll.config
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\HELPER.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.csprojAssemblyReference.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.RazorAssemblyInfo.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.RazorAssemblyInfo.cs
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.AssemblyInfoInputs.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.AssemblyInfo.cs
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.RazorTargetAssemblyInfo.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.csproj.CopyComplete
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.csprojAssemblyReference.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.RazorAssemblyInfo.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.RazorAssemblyInfo.cs
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.AssemblyInfoInputs.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.AssemblyInfo.cs
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.deps.json
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.runtimeconfig.json
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.runtimeconfig.dev.json
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\Crud.DotNet.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\BLL.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\HELPER.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\BLL.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\MODEL.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\bin\Debug\netcoreapp2.2\HELPER.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.RazorTargetAssemblyInfo.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.csproj.CopyComplete
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\Crud.DotNet\obj\Debug\netcoreapp2.2\Crud.DotNet.pdb

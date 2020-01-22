@@ -1,0 +1,8 @@
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp3.1\MODEL.deps.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp3.1\MODEL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp3.1\MODEL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp3.1\MODEL.csprojAssemblyReference.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp3.1\MODEL.AssemblyInfoInputs.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp3.1\MODEL.AssemblyInfo.cs
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp3.1\MODEL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp3.1\MODEL.pdb

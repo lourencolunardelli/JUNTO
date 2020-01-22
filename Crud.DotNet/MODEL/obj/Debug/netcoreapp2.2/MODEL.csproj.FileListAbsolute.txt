@@ -1,0 +1,15 @@
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp2.2\MODEL.deps.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp2.2\MODEL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.AssemblyInfoInputs.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.AssemblyInfo.cs
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp2.2\MODEL.deps.json
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\bin\Debug\netcoreapp2.2\MODEL.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.csprojAssemblyReference.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.AssemblyInfoInputs.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.AssemblyInfo.cs
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\MODEL\obj\Debug\netcoreapp2.2\MODEL.pdb

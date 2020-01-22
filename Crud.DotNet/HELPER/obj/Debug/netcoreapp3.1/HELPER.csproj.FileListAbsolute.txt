@@ -1,0 +1,8 @@
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\bin\Debug\netcoreapp3.1\HELPER.deps.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\bin\Debug\netcoreapp3.1\HELPER.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\bin\Debug\netcoreapp3.1\HELPER.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp3.1\HELPER.csprojAssemblyReference.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp3.1\HELPER.AssemblyInfoInputs.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp3.1\HELPER.AssemblyInfo.cs
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp3.1\HELPER.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp3.1\HELPER.pdb

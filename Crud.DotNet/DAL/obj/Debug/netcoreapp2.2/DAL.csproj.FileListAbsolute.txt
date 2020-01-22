@@ -1,0 +1,32 @@
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\DAL.dll.config
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\DAL.deps.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\HELPER.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\HELPER.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\MODEL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.csprojAssemblyReference.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.Queries.resources
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.GenerateResource.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfoInputs.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfo.cs
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CopyComplete
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.csprojAssemblyReference.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.Queries.resources
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.Resources.resources
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.GenerateResource.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfoInputs.cache
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfo.cs
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\DAL.deps.json
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\HELPER.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\HELPER.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp2.2\MODEL.pdb
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CopyComplete
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.dll
+C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp2.2\DAL.pdb

@@ -1,0 +1,14 @@
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp3.1\DAL.dll.config
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp3.1\MODEL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\bin\Debug\netcoreapp3.1\MODEL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp3.1\DAL.Queries.resources
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.GenerateResource.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

@@ -1,0 +1,14 @@
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp3.1\MODEL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp3.1\DAL.dll.config
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp3.1\MODEL.pdb
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Lourenço Lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
