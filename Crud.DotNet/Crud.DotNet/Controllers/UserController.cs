@@ -1,4 +1,5 @@
 ﻿using BLL;
+using HELPER;
 using Microsoft.AspNetCore.Mvc;
 using MODEL;
 using Newtonsoft.Json;
@@ -12,44 +13,62 @@ namespace Crud.DotNet.Controllers
     {
         [HttpGet]
         [Route("Get")]
-        public ActionResult<string> Get()
+        public ActionResult<string> Get(string ApiToken)
         {
-            return JsonConvert.SerializeObject(UserBLO.Get());
+            if (Helper.ValidateApiToken(ApiToken))
+                return JsonConvert.SerializeObject(UserBLO.Get());
+            else
+                return JsonConvert.SerializeObject("Token inválido");
         }
 
         [HttpGet]
         [Route("GetById")]
-        public ActionResult<string> GetById(int id)
+        public ActionResult<string> GetById(string ApiToken, int id)
         {
-            return JsonConvert.SerializeObject(UserBLO.GetById(id));
+            if (Helper.ValidateApiToken(ApiToken))
+                return JsonConvert.SerializeObject(UserBLO.GetById(id));
+            else
+                return JsonConvert.SerializeObject("Token inválido");
         }
 
         [HttpPost]
         [Route("Insert")]
-        public ActionResult<string> Insert(UserModel model)
+        public ActionResult<string> Insert(string ApiToken, UserModel model)
         {
-            return JsonConvert.SerializeObject(UserBLO.Insert(model));
+            if (Helper.ValidateApiToken(ApiToken))
+                return JsonConvert.SerializeObject(UserBLO.Insert(model));
+            else
+                return JsonConvert.SerializeObject("Token inválido");
         }
 
         [HttpPut]
         [Route("Update")]
-        public ActionResult<string> Update(UserModel model)
+        public ActionResult<string> Update(string ApiToken, UserModel model)
         {
-            return JsonConvert.SerializeObject(UserBLO.Update(model));
+            if (Helper.ValidateApiToken(ApiToken))
+                return JsonConvert.SerializeObject(UserBLO.Update(model));
+            else
+                return JsonConvert.SerializeObject("Token inválido");
         }
 
         [HttpPut]
         [Route("UpdatePassword")]
-        public ActionResult<string> UpdatePassword(int id, string password)
+        public ActionResult<string> UpdatePassword(string ApiToken, int id, string password)
         {
-            return JsonConvert.SerializeObject(UserBLO.UpdatePassword(id, password));
+            if (Helper.ValidateApiToken(ApiToken))
+                return JsonConvert.SerializeObject(UserBLO.UpdatePassword(id, password));
+            else
+                return JsonConvert.SerializeObject("Token inválido");
         }
 
         [HttpDelete]
         [Route("api/[controller]")]
-        public ActionResult<string> Delete(int id)
+        public ActionResult<string> Delete(string ApiToken, int id)
         {
-            return JsonConvert.SerializeObject(UserBLO.Delete(id));
+            if (Helper.ValidateApiToken(ApiToken))
+                return JsonConvert.SerializeObject(UserBLO.Delete(id));
+            else
+                return JsonConvert.SerializeObject("Token inválido");
         }
     }
 }

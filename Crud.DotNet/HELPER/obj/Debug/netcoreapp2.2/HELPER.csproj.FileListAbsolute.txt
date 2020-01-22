@@ -14,3 +14,13 @@ C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\ne
 C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.AssemblyInfo.cs
 C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.dll
 C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.pdb
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\bin\Debug\netcoreapp2.2\HELPER.deps.json
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\bin\Debug\netcoreapp2.2\HELPER.dll
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\bin\Debug\netcoreapp2.2\HELPER.pdb
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.csprojAssemblyReference.cache
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.Resources.resources
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.csproj.GenerateResource.cache
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.AssemblyInfoInputs.cache
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.AssemblyInfo.cs
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.dll
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\HELPER\obj\Debug\netcoreapp2.2\HELPER.pdb

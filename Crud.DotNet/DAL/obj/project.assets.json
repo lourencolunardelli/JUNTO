@@ -1407,11 +1407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\lourenco.lunardelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1430,11 +1430,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\HELPER\\HELPER.csproj": {
-              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\HELPER\\HELPER.csproj"
+            "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\HELPER\\HELPER.csproj": {
+              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\HELPER\\HELPER.csproj"
             },
-            "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {
-              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj"
+            "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {
+              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj"
             }
           }
         }

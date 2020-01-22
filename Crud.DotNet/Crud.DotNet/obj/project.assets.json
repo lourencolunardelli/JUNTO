@@ -13427,11 +13427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\Crud.DotNet\\Crud.DotNet.csproj",
+      "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\Crud.DotNet\\Crud.DotNet.csproj",
       "projectName": "Crud.DotNet",
-      "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\Crud.DotNet\\Crud.DotNet.csproj",
+      "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\Crud.DotNet\\Crud.DotNet.csproj",
       "packagesPath": "C:\\Users\\lourenco.lunardelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\Crud.DotNet\\obj\\",
+      "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\Crud.DotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13450,11 +13450,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\BLL\\BLL.csproj"
+            "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {
-              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj"
+            "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {
+              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj"
             }
           }
         }

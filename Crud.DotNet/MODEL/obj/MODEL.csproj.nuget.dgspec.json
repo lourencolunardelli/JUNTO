@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {}
+    "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {
+    "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj",
+        "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj",
         "projectName": "MODEL",
-        "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj",
+        "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj",
         "packagesPath": "C:\\Users\\lourenco.lunardelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\obj\\",
+        "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -29,3 +29,18 @@ C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\bin\Debug\netco
 C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.csproj.CopyComplete
 C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.dll
 C:\Users\lourenco.lunardelli\Desktop\Teste JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.pdb
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\BLL.deps.json
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\BLL.dll
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\BLL.pdb
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\DAL.dll
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\HELPER.dll
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\MODEL.dll
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\DAL.pdb
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\HELPER.pdb
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\bin\Debug\netcoreapp2.2\MODEL.pdb
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.csprojAssemblyReference.cache
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.AssemblyInfoInputs.cache
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.AssemblyInfo.cs
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.csproj.CopyComplete
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.dll
+C:\Users\lourenco.lunardelli\Desktop\JUNTO\Crud.DotNet\BLL\obj\Debug\netcoreapp2.2\BLL.pdb

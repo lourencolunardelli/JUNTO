@@ -1425,11 +1425,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\lourenco.lunardelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1448,8 +1448,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\DAL\\DAL.csproj"
+            "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\DAL\\DAL.csproj"
             }
           }
         }

@@ -9323,11 +9323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\Crud.DotNet.Tests\\Crud.DotNet.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\Crud.DotNet.Tests\\Crud.DotNet.Tests.csproj",
       "projectName": "Crud.DotNet.Tests",
-      "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\Crud.DotNet.Tests\\Crud.DotNet.Tests.csproj",
+      "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\Crud.DotNet.Tests\\Crud.DotNet.Tests.csproj",
       "packagesPath": "C:\\Users\\lourenco.lunardelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\Crud.DotNet.Tests\\obj\\",
+      "outputPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\Crud.DotNet.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9346,14 +9346,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\BLL\\BLL.csproj"
+            "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\Crud.DotNet\\Crud.DotNet.csproj": {
-              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\Crud.DotNet\\Crud.DotNet.csproj"
+            "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\Crud.DotNet\\Crud.DotNet.csproj": {
+              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\Crud.DotNet\\Crud.DotNet.csproj"
             },
-            "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {
-              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\Teste JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj"
+            "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj": {
+              "projectPath": "C:\\Users\\lourenco.lunardelli\\Desktop\\JUNTO\\Crud.DotNet\\MODEL\\MODEL.csproj"
             }
           }
         }
